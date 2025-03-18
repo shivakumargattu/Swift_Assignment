@@ -9,15 +9,8 @@ This project is a simple Node.js REST API that uses MongoDB to store and manage 
 * MongoDB (local or cloud-hosted)
 
 ## Installation
-
-1.  **Clone the repository (if applicable):**
-
-    ```bash
-    git clone <your-repository-url>
-    cd node_assignment
-    ```
-
-2.  **Install dependencies:**
+ 
+ **Install dependencies:**
 
     ```bash
     npm install
@@ -79,9 +72,6 @@ This project is a simple Node.js REST API that uses MongoDB to store and manage 
 
 * **cURL:**
     * You can use cURL to test the API endpoints from the command line.
-
-* **Postman:**
-    * Postman is a popular GUI tool for testing APIs. You can create collections and requests for each endpoint.
 
 * **Browser Developer Tools:**
     * Use the "Network" tab in your browser's developer tools to inspect API requests and responses.
